@@ -1,0 +1,12 @@
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 30px;
+    width: 800px;
+    background-color: #fcdcac;
+}
+
+#aboutme {
+    font-size: 22px;
+}
