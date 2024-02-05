@@ -7,6 +7,12 @@
     background-color: #fcdcac;
 }
 
-#aboutme {
-    font-size: 22px;
+.aboutme {
+    width: 600px; 
+    margin-left: 20px
+}
+
+.switzerland {
+    text-align: center; 
+    margin-right: 20px
 }
